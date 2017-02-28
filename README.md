@@ -1,6 +1,4 @@
-# reverse-a-string
-
-Reverse a given String using Java Recursion.
+# Reverse a given String using Java Recursion.
 
 •	If the Input String is null, then the output will be null.
 
